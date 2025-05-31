@@ -45,8 +45,9 @@ Utilizando dados extraídos de avaliações de clientes, construímos um pipelin
 
 ---
 
-## ✨ ConclusãoConclusao
+## ✨ Conclusão
 
-Este projeto mostra como o Azure AI Search transforma avaliações de clientes em insights valiosos, automatizando a análise de dados e apoiando decisões estratégicas para a Fourth Coffee.
+Este projeto mostra como o Azure AI Search transforma avaliações de clientes em insights valiosos, 
+automatizando a análise de dados e apoiando decisões estratégicas para a Fourth Coffee.
 
 ---
